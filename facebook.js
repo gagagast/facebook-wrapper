@@ -1,4 +1,4 @@
-/* Author  : Novastream/gaetan 
+/* Author  : gaetan 
  * Module : Facebook wrapper
  * Desc : cette object facilite la mise en place du FbConnect et les interactions avec la graph api
  * Dépendance : pubsub de Ben Alman https://gist.github.com/cowboy/661855
